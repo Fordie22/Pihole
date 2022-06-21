@@ -1,4 +1,2 @@
-#! /bin/bash
-sudo apt update && sudo apt upgrade && sudo apt autoremove
-echo done
-ifconfig
+sudo apt update && sudo apt update && sudo apt autoremove
+pihole -g
